@@ -1,0 +1,29 @@
+_repo: A-Florida-Sketch-Book_10760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Torrey, Bradford
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '3667'
+    url: http://www.gutenberg.org/2009/agents/3667
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Florida -- Description and travel'
+- !lcc 'F296'
+- !lcsh 'Birds -- Florida'
+- GITenberg
+tableOfContents: In the flat-woods -- Beside the marsh -- On the beach at Daytona
+  -- Along the Hillsborough -- A morning at the old sugar mill -- On the upper St.
+  John's -- On the St. Augustine road -- Ornithology on a cotton plantation -- A Florida
+  shrine -- Walks about Tallahassee.
+title: A Florida Sketch-Book
+url: http://www.gutenberg.org/ebooks/10760
